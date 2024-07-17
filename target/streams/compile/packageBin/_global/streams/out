@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/lil/reciept_printer/target/scala-2.13/reciept_printer_2.13-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Till.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/lil/reciept_printer/target/scala-2.13/classes/Till.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReceiptPrinter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/lil/reciept_printer/target/scala-2.13/classes/ReceiptPrinter$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReceiptPrinter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/lil/reciept_printer/target/scala-2.13/classes/ReceiptPrinter.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	CafeDetails.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/lil/reciept_printer/target/scala-2.13/classes/CafeDetails.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

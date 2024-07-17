@@ -1,0 +1,20 @@
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ReceiptPrinterSpec, org.scalatest.tools.Framework$$anon$1@5966ecd9, false, [SuiteSelector])[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mReceiptPrinterSpec:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mA ReceiptPrinter[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should format a receipt which[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  - contains the name of the cafe[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    format a reciept which[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    - contains the address of the cafe[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    format a reciept which[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    - contains the phone number of the cafe[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    format a reciept which[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    - contains an order from the menu[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    No order on the menu which[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    - throws an error when user orders a food that's not on the menu[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 161 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ReceiptPrinterSpec[0m
