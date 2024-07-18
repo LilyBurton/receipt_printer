@@ -28,7 +28,3 @@ class ReceiptPrinter(val cafe: CafeDetails, var order: Map[String, Int] = Map())
     orderDetails
   }
 }
-
-//class Till(val detail: ReceiptPrinter) {
-//
-//}
