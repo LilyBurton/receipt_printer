@@ -1,4 +1,6 @@
-[0m[[0m[31merror[0m] [0m[0m/Users/lil/reciept_printer/src/test/scala/RecieptPrinterTest.scala:74:18: not found: value Failure[0m
-[0m[[0m[31merror[0m] [0m[0m            case Failure(exception) =>[0m
-[0m[[0m[31merror[0m] [0m[0m                 ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/lil/reciept_printer/src/test/scala/RecieptPrinterTest.scala:98:65: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : (String, Int)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Map[String,Int][0m
+[0m[[0m[31merror[0m] [0m[0m          val updatedOrder = Till.addItem(coffeeConnectionCafe, initialOrder, "Choc Mudcake")[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

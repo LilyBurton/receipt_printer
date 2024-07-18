@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ReceiptPrinterSpec, org.scalatest.tools.Framework$$anon$1@5966ecd9, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ReceiptPrinterSpec, org.scalatest.tools.Framework$$anon$1@2d6811c2, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mReceiptPrinterSpec:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mA ReceiptPrinter[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m  should format a receipt which[0m[0m
@@ -9,12 +9,17 @@
 [0m[[0m[0minfo[0m] [0m[0m[32m    - contains the phone number of the cafe[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m    format a reciept which[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m    - contains an order from the menu[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m    No order on the menu which[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[32m    - throws an error when user orders a food that's not on the menu[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 161 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 5[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m  should Till[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    should show a menu which[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    - shows a list of drinks and food[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    should A Till[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m      when add an item to an order which[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m      - Pick an item from the menu and add to the order[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m    - when throw IllegalArgumentException if the item is not on menu[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 155 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 7[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 5, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 7, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	ReceiptPrinterSpec[0m
